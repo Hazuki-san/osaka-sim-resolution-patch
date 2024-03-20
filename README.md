@@ -20,7 +20,7 @@ To apply the patch, follow these steps:
 3. Apply the patch to your game directory.
 
 ## Usage
-After applying the patch, set the `WindowMode` in `tsu_han.cfg` and run the game as usual. The resolution changes should be applied automatically.
+After applying the patch, set the `WindowMode` in `tsu_han.cfg` to `2` (1200x1200) and run the game as usual. The resolution changes should be applied automatically.
 
 ## Contributing
 Contributions to improve this patch are welcome. If you have knowledge in reverse engineering and would like to enhance this patch, please feel free to fork this repository and submit a pull request.
